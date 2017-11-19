@@ -96,3 +96,8 @@ header.masthead {
 footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem; }
+
+.navbar.navbar-inverse {
+  color: #000;
+
+}
